@@ -1,2 +1,2 @@
-# quiz_questions
-This is a CLI based 
+# Quiz_Questions
+This is a Quiz System Project
